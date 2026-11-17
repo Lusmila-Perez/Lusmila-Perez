@@ -10,7 +10,7 @@
 
 ## Olá! 👋
 
-Sou **Engenheira de Sistemas** com **13 anos de trajetória profissional internacional** (Venezuela, Brasil, Argentina e Colômbia), com sólida atuação em análise de dados, processos de negócio e **5 anos de experiência no ecossistema SAP (SD e MM)** no setor energético. Experiência em **ETL, Governança de Dados, Data Quality e Data Modeling (Star Schema)**. Conhecimentos em **Power BI**  para a criação de painéis interativos, visualizações analíticas. Atualmente, estou ampliando minhas capacidades técnicas em **Python** para otimização de fluxos analíticos.
+Sou **Engenheira de Sistemas** com **13 anos de trajetória profissional internacional** (Venezuela, Brasil, Argentina e Colômbia), com sólida atuação em análise de dados, processos de negócio e **5 anos de experiência no ecossistema SAP (SD e MM)** no setor energético. Experiência em **ETL, Governança de Dados, Data Quality e Data Modeling (Star Schema)**. Conhecimentos em **Power BI**, aplicados à criação de painéis interativos e visualizações analíticas. Atualmente, estou ampliando minhas capacidades técnicas em **Python** para otimização de fluxos analíticos.
 
 > 🚧 **Portfólio em construção.** Estou reunindo projetos que mostram, na prática, o que aplico no dia a dia e o que estou aprendendo. O primeiro projeto já está publicado; os próximos estão a caminho.
 
@@ -61,7 +61,7 @@ Dashboard interativo para o monitoramento da operação comercial: evolução hi
 ## ¡Hola! 👋
 
 Soy **Ingeniera de Sistemas** con **13 años de trayectoria profesional internacional** (Venezuela, Brasil, Argentina y Colombia), con sólida experiencia en análisis de datos, procesos de negocio y **5 años en el ecosistema SAP (módulos SD y MM)** dentro del sector energético. Experiencia en **ETL, Gobernanza de Datos, Data Quality y Data Modeling (Star Schema)**,
-Conocimientos en **Power BI Data** para la creación de paneles interactivos y visualizaciones analíticas. Actualmente, estoy ampliando mis capacidades técnicas en **Python** para la optimización de flujos analíticos.
+Conocimientos en **Power BI**, aplicados a la creación de paneles interactivos y visualizaciones analíticas. Actualmente, estoy ampliando mis capacidades técnicas en **Python** para la optimización de flujos analíticos.
 
 > 🚧 **Portafolio en construcción.** Estoy reuniendo proyectos que muestran, en la práctica, lo que aplico en mi día a día y lo que estoy aprendiendo. El primer proyecto ya está publicado; los siguientes están en camino.
 
