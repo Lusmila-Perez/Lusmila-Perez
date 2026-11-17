@@ -10,7 +10,7 @@
 
 ## Olá! 👋
 
-Sou **Engenheira de Sistemas** com **13 anos de trajetória profissional internacional** (Venezuela, Brasil, Argentina e Colômbia), com sólida atuação em análise de dados, processos de negócio e **5 anos de experiência no ecossistema SAP (SD e MM)** no setor energético. Experiência em **Power BI, ETL, Governança de Dados, Data Quality e Data Modeling (Star Schema)**. Conhecimentos em **Power BI**  para a criação de painéis interativos, visualizações analíticas. Atualmente, estou ampliando minhas capacidades técnicas em **Python** para otimização de fluxos analíticos.
+Sou **Engenheira de Sistemas** com **13 anos de trajetória profissional internacional** (Venezuela, Brasil, Argentina e Colômbia), com sólida atuação em análise de dados, processos de negócio e **5 anos de experiência no ecossistema SAP (SD e MM)** no setor energético. Experiência em **ETL, Governança de Dados, Data Quality e Data Modeling (Star Schema)**. Conhecimentos em **Power BI**  para a criação de painéis interativos, visualizações analíticas. Atualmente, estou ampliando minhas capacidades técnicas em **Python** para otimização de fluxos analíticos.
 
 > 🚧 **Portfólio em construção.** Estou reunindo projetos que mostram, na prática, o que aplico no dia a dia e o que estou aprendendo. O primeiro projeto já está publicado; os próximos estão a caminho.
 
