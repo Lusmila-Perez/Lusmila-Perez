@@ -24,7 +24,7 @@ Sou **Engenheira de Sistemas** com **13 anos de trajetória profissional interna
 
 - **Processos, Dados & Cloud:** ![ETL](https://img.shields.io/badge/ETL-005C84?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-3776AB?style=flat-square) ![Data Quality](https://img.shields.io/badge/Data%20Quality-4EAA25?style=flat-square) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=postman&logoColor=white)
 
-- **Business Intelligence & Visualização:** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+- **Business Intelligence & Visualização:** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
 
 - **ERP & Gestão:** ![SAP SD/MM](https://img.shields.io/badge/SAP%20SD%2FMM-0FAAFF?style=flat-square&logo=sap&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
 
@@ -75,7 +75,7 @@ Conocimientos en **Power BI**, aplicados a la creación de paneles interactivos 
 
 - **Procesos, Datos y Cloud:** ![ETL](https://img.shields.io/badge/ETL-005C84?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-3776AB?style=flat-square) ![Data Quality](https://img.shields.io/badge/Data%20Quality-4EAA25?style=flat-square) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=postman&logoColor=white)
 
-- **Business Intelligence y Visualización:** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+- **Business Intelligence y Visualización:**  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
 
 - **ERP y Gestión:** ![SAP SD/MM](https://img.shields.io/badge/SAP%20SD%2FMM-0FAAFF?style=flat-square&logo=sap&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
 
