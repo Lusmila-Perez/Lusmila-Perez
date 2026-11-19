@@ -38,7 +38,7 @@ Sou **Engenheira de Sistemas** com **13 anos de trajetória profissional interna
 
 Dashboard interativo para o monitoramento da operação comercial: evolução histórica de vendas por trimestre, mês e semana (YoY e MoM), desempenho da força de vendas, Lei de Pareto (80/20) para identificação de clientes VIP e análise multidimensional com segmentadores.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=microsoft&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-005C84?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=microsoft&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-005C84?style=flat-square) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 🔗 [Ver repositório do projeto](https://github.com/Lusmila-Perez/Centro-Controle-Vendas-360-Retail)
 
@@ -88,8 +88,8 @@ Conocimientos en **Power BI**, aplicados a la creación de paneles interactivos 
 *Proyecto práctico de mi formación en Power BI (nivel intermedio).*
 
 Dashboard interactivo para el monitoreo de la operación comercial: evolución histórica de ventas por trimestre, mes y semana (YoY y MoM), desempeño de la fuerza de ventas, Ley de Pareto (80/20) para identificar clientes VIP y análisis multidimensional con segmentadores.
-``
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=microsoft&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-005C84?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=microsoft&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-005C84?style=flat-square) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 🔗 [Ver repositorio del proyecto](https://github.com/Lusmila-Perez/Centro-Controle-Vendas-360-Retail)
 
